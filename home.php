@@ -29,7 +29,7 @@ $conn->close();
 
 //File CSV
 $list = array (
-  array("Peter11dfgdfd", "Griffin" ,"Oslo", "Norway"),
+  array("Saudamini", "Griffin" ,"Oslo", "Norway"),
   array("Glenn", "Quagmire", "Oslo", "Norway")
 );
 
